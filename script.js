@@ -1,4 +1,4 @@
-const api ='https://www.breakingbadapi.com/api/characters'
+const api ='https://info.bdb-law.co.uk/wp-json/wp/v2/users'
 
 async function get(){
     const response = await fetch(api)
